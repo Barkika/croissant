@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(151, 124, 72);
+  background-color: rgb(182, 157, 110);
   font-family: Georgia, "Times New Roman", Times, serif;
   color: beige;
 }
@@ -20,5 +20,12 @@ footer {
 footer a {
   text-align: center;
   margin: 0 20px;
-  color: beige;
+  color: rgb(0, 0, 0);
+}
+
+.croissant-photo {
+  max-width: 100%;
+  display: block;
+  border-radius: 10px;
+  margin: 30px;
 }
