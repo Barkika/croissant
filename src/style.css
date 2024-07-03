@@ -13,7 +13,12 @@ p {
   color: rgb(74, 64, 35);
 }
 
-grid {
+footer {
   text-align: center;
-  justify-content: space-around;
+}
+
+footer a {
+  text-align: center;
+  margin: 0 20px;
+  color: beige;
 }
